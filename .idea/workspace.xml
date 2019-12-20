@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c680ca3-fa0d-4ae3-83e3-abc9dfb496b2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VDcK1Hqw04gJzHqwDjL7GRjHc7" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="OpenIGID" />
+      <option name="PACKAGE_NAME" value="ig.edgelord.openigid.test" />
+      <option name="MAIN_CLASS_NAME" value="ig.edgelord.openigid.test.OpenIGIDTokenTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c680ca3-fa0d-4ae3-83e3-abc9dfb496b2" name="Default Changelist" comment="" />
+      <created>1576791038766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576791038766</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="744" y="365" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576792093388">
+      <screen x="0" y="23" width="2560" height="1360" />
+    </state>
+    <state x="744" y="365" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1360@0.23.2560.1360" timestamp="1576792093388" />
+    <state x="1093" y="426" key="#com.intellij.ide.util.MemberChooser" timestamp="1576791576319">
+      <screen x="0" y="23" width="2560" height="1360" />
+    </state>
+    <state x="1093" y="426" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1360@0.23.2560.1360" timestamp="1576791576319" />
+    <state x="1017" y="494" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1576792092556">
+      <screen x="0" y="23" width="2560" height="1360" />
+    </state>
+    <state x="1017" y="494" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.2560.1360@0.23.2560.1360" timestamp="1576792092556" />
+    <state width="2518" height="390" key="GridCell.Tab.0.bottom" timestamp="1576823538117">
+      <screen x="0" y="23" width="2560" height="1360" />
+    </state>
+    <state width="2518" height="390" key="GridCell.Tab.0.bottom/0.23.2560.1360@0.23.2560.1360" timestamp="1576823538117" />
+    <state width="2518" height="390" key="GridCell.Tab.0.center" timestamp="1576823538117">
+      <screen x="0" y="23" width="2560" height="1360" />
+    </state>
+    <state width="2518" height="390" key="GridCell.Tab.0.center/0.23.2560.1360@0.23.2560.1360" timestamp="1576823538117" />
+    <state width="2518" height="390" key="GridCell.Tab.0.left" timestamp="1576823538117">
+      <screen x="0" y="23" width="2560" height="1360" />
+    </state>
+    <state width="2518" height="390" key="GridCell.Tab.0.left/0.23.2560.1360@0.23.2560.1360" timestamp="1576823538117" />
+    <state width="2518" height="390" key="GridCell.Tab.0.right" timestamp="1576823538117">
+      <screen x="0" y="23" width="2560" height="1360" />
+    </state>
+    <state width="2518" height="390" key="GridCell.Tab.0.right/0.23.2560.1360@0.23.2560.1360" timestamp="1576823538117" />
+    <state x="768" y="284" key="SettingsEditor" timestamp="1576791671415">
+      <screen x="0" y="23" width="2560" height="1360" />
+    </state>
+    <state x="768" y="284" key="SettingsEditor/0.23.2560.1360@0.23.2560.1360" timestamp="1576791671415" />
+    <state width="655" height="137" key="javadoc.popup.new" timestamp="1576791157409">
+      <screen x="0" y="23" width="2560" height="1360" />
+    </state>
+    <state width="655" height="137" key="javadoc.popup.new/0.23.2560.1360@0.23.2560.1360" timestamp="1576791157409" />
+  </component>
+</project>
